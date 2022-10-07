@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JabKhan23/Sperry-Rail/issues"
   },
-  "homepage": "https://github.com/JabKhan23/Sperry-Rail#readme"
+  "homepage": "https://github.com/JabKhan23/Sperry-Rail#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.0"
+  }
 }
