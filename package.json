@@ -1,0 +1,19 @@
+{
+  "name": "sperry-rail",
+  "version": "1.0.0",
+  "description": "sperry-rail-csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JabKhan23/Sperry-Rail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JabKhan23/Sperry-Rail/issues"
+  },
+  "homepage": "https://github.com/JabKhan23/Sperry-Rail#readme"
+}
